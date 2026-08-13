@@ -1,0 +1,6 @@
+{
+  "name": "ServePoint - Restaurant Management System",
+  "description": "Full-Stack Restaurant Management System (SaaS) for Bella Vista Restaurant in Addis Ababa, Ethiopia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
